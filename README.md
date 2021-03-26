@@ -1,4 +1,4 @@
-# SGT-in-cancer-GRN (Spectral Graph Theory in cancer gene regulatory networks)
+# SGT-in-cancer-GRN
 
  
 #### PlotGraphWithLabeledVertices: 
@@ -6,7 +6,7 @@ Con este script se puede visualizar el grafo asociado a la matriz de adyacencia 
  
 #### AlgebraicConnectivityAnalysis_UNS y AlgebraicConnectivityAnalysis_UNT: 
 
-Estos scripts sirven para calcular a(G) y <img src="https://render.githubusercontent.com/render/math?\delta(G)">, conectividad algebraica y menor grado respectivamente de el grafo G, asociado a la matriz de adyacencia.
+Estos scripts sirven para calcular a(G) y <img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">, conectividad algebraica y menor grado respectivamente de el grafo G, asociado a la matriz de adyacencia.
 
 
 #### EigVecCentAnalysisUNS.ipynb y EigVecCentAnalysisUNT.ipynb: 
