@@ -1,5 +1,8 @@
 # SGT-in-cancer-GRN
 
+ 
+ PlotGraphWithLabeledVertices: Con este script se puede visualizar el grafo asociado a la matriz de adyacencia calculada a partir del data set output de ARACNe, con etiquetas de los genes para cada vértice.
+ 
  AlgebraicConnectivityAnalysis_UNS y AlgebraicConnectivityAnalysis_UNT: Estos scripts sirven para calcular a(G) y \delta(G), conectividad algebraica y menor grado respectivamente
  de el grafo G, asociado a la matriz de adyacencia.
 
