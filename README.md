@@ -15,4 +15,4 @@ de grado y se guarda en una lista, y se calcula el producto entre la matriz de a
 
 
 #### SignlessLapMatAnalysys_UNS_3.0 y SignlessLapMatAnalysys_UNS:
-Estos scripts sirven para calcular coeficientes de polinomio característico pard diferentes tamaños de sub-matriz de adyacencia, o lo que es lo mismo conjuntos más pequeños del data set original sobre el que se hacen todos los cálculos, cuyo header se pones al inicio del script con tamaño aproximado de <img src="https://render.githubusercontent.com/render/math?math=16000\times16000">
+Estos scripts sirven para calcular coeficientes de polinomio característico para diferentes tamaños de sub-matriz de adyacencia, o lo que es lo mismo conjuntos más pequeños del data set original sobre el que se hacen todos los cálculos, cuyo header se pone al inicio del script con tamaño aproximado de <img src="https://render.githubusercontent.com/render/math?math=16000\times16000">
