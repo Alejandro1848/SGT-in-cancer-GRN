@@ -1,6 +1,9 @@
 # SGT-in-cancer-GRN
 
- 
+#### CalThresholdAdjMattt:
+
+Con este script se hacen los primeros ensayos para calcular el número de bordes de un grafo a partir del segundo coeficiente del polinomio característico, además de los primeros ensayos para dibujar los gráficos con su etiqueta correspondiente en este caso, el gen al que está asociado cada vértice.
+
 #### PlotGraphWithLabeledVertices: 
 Con este script se puede visualizar el grafo asociado a la matriz de adyacencia calculada a partir del data set output de ARACNe, con etiquetas de los genes para cada vértice.
  
