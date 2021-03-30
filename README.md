@@ -1,5 +1,6 @@
 # SGT-in-cancer-GRN 
-###### Spectral Graph Theory in cancer Gene Regulatory Networks.
+##### Spectral Graph Theory in cancer Gene Regulatory Networks.
+
 
 #### CalThresholdAdjMattt:
 
